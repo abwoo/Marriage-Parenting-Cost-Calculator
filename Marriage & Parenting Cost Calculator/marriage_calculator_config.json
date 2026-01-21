@@ -1,0 +1,38 @@
+{
+  "salaryA": 22000.0,
+  "salaryB": 18000.0,
+  "annualBonus": 80000.0,
+  "incomeStability": 80.0,
+  "propertyValue": 1800000.0,
+  "propertyAppreciation": -1.0,
+  "monthlyMortgage": 6500.0,
+  "annualParentSupport": 35000.0,
+  "marriageCosts": {
+    "betrothalGift": 58000.0,
+    "weddingCeremony": 128000.0,
+    "weddingRing": 35000.0,
+    "honeymoon": 45000.0,
+    "newHouseDownPayment": 360000.0,
+    "renovation": 180000.0
+  },
+  "childCount": 1,
+  "cityTier": "tier2",
+  "children": [
+    {
+      "prenatalCare": 8500.0,
+      "delivery": 12000.0,
+      "postpartumCare": 22000.0,
+      "monthlyBabyCost": 2200.0,
+      "kindergarten": 96000.0,
+      "primarySchool": 180000.0,
+      "juniorHigh": 156000.0,
+      "seniorHigh": 132000.0,
+      "university": 720000.0,
+      "extracurricular": 120000.0
+    }
+  ],
+  "baseLivingCost": 6200.0,
+  "livingInflation": 2.1,
+  "investmentReturn": 3.8,
+  "riskSimulation": false
+}
