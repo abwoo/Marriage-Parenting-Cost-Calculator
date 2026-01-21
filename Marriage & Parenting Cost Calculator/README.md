@@ -1118,7 +1118,7 @@ A: 关注项目仓库的[Release页面](https://github.com/abwoo/Marriage-Parent
 
 ## 📞 联系我们
 
-- 📧 **邮箱**: support@Marriage-Parenting-Cost-Calculator.com
+- 📧 **邮箱**: 13803268580@163.com
 - 🐛 **问题反馈**: [GitHub Issues](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/issues)
 - 📖 **文档**: [GitHub Wiki](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/wiki)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/discussions)
