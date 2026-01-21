@@ -117,15 +117,15 @@ python marriage_calculator.py
 #### 方法1：克隆仓库（推荐）
 ```bash
 # 克隆项目
-git clone https://github.com/your-repo/marriage-calculator.git
-cd marriage-calculator
+git clone https://github.com/abwoo/Marriage-Parenting-Cost-Calculator.git
+cd Marriage-Parenting-Cost-Calculator
 
 # 安装依赖
 pip install -r requirements.txt
 ```
 
 #### 方法2：直接下载
-1. 从 [GitHub Releases](https://github.com/your-repo/marriage-calculator/releases) 下载最新版本
+1. 从 [GitHub Releases](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/releases) 下载最新版本
 2. 解压到本地目录
 3. 运行安装脚本
 
@@ -800,7 +800,7 @@ python marriage_calculator.py
 ### 📁 项目结构
 
 ```
-marriage-calculator/
+Marriage-Parenting-Cost-Calculator/
 ├── marriage_calculator.py      # 主程序文件
 ├── run_calculator.bat          # Windows启动脚本
 ├── run_calculator.py           # 跨平台启动脚本
@@ -896,8 +896,8 @@ def calculate_risk_score(monthly_income, monthly_expenses, assets, debts):
 
 1. **Fork项目**
    ```bash
-   git clone https://github.com/your-username/marriage-calculator.git
-   cd marriage-calculator
+   git clone https://github.com/abwoo/Marriage-Parenting-Cost-Calculator.git
+   cd Marriage-Parenting-Cost-Calculator
    ```
 
 2. **创建虚拟环境**
@@ -1118,10 +1118,10 @@ A: 关注项目仓库的Release页面，或通过程序内的更新检查功能�
 
 ## 📞 联系我们
 
-- 📧 **邮箱**: support@marriage-calculator.com
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/your-repo/marriage-calculator/issues)
-- 📖 **文档**: [GitHub Wiki](https://github.com/your-repo/marriage-calculator/wiki)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/your-repo/marriage-calculator/discussions)
+- 📧 **邮箱**: support@Marriage-Parenting-Cost-Calculator.com
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/issues)
+- 📖 **文档**: [GitHub Wiki](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/wiki)
+- 💬 **讨论**: [GitHub Discussions](https://github.com/abwoo/Marriage-Parenting-Cost-Calculator/discussions)
 
 ---
 
